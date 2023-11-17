@@ -1,0 +1,14 @@
+/workspaces/example/prueba/bin/Debug/net7.0/helloWorld
+/workspaces/example/prueba/bin/Debug/net7.0/helloWorld.deps.json
+/workspaces/example/prueba/bin/Debug/net7.0/helloWorld.runtimeconfig.json
+/workspaces/example/prueba/bin/Debug/net7.0/helloWorld.dll
+/workspaces/example/prueba/bin/Debug/net7.0/helloWorld.pdb
+/workspaces/example/prueba/obj/Debug/net7.0/helloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/example/prueba/obj/Debug/net7.0/helloWorld.AssemblyInfoInputs.cache
+/workspaces/example/prueba/obj/Debug/net7.0/helloWorld.AssemblyInfo.cs
+/workspaces/example/prueba/obj/Debug/net7.0/helloWorld.csproj.CoreCompileInputs.cache
+/workspaces/example/prueba/obj/Debug/net7.0/helloWorld.dll
+/workspaces/example/prueba/obj/Debug/net7.0/refint/helloWorld.dll
+/workspaces/example/prueba/obj/Debug/net7.0/helloWorld.pdb
+/workspaces/example/prueba/obj/Debug/net7.0/helloWorld.genruntimeconfig.cache
+/workspaces/example/prueba/obj/Debug/net7.0/ref/helloWorld.dll
